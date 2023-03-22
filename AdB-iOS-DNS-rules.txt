@@ -189,7 +189,7 @@ rlcdn.com
 rubiconproject.com
 sail-horizon.com
 scarabresearch.com
-scdn.line-apps.com
+#scdn.line-apps.com
 scn.line.me
 scorecardresearch.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
