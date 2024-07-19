@@ -1,1 +1,1 @@
-reuters.com##body > div.fEy1Z2XT
+||reuters.com##div.fEy1Z2XT
