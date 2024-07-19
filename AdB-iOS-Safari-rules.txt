@@ -1,1 +1,9 @@
+[Adblock Plus 2.0]
+! Checksum: null
+! Version: null
+! Title: nnrn list
+! Last modified: null
+! Expires: 365 days (update frequency)
+! Homepage: https://github.com/nnrn/nnlist
+
 ||reuters.com##div.fEy1Z2XT
