@@ -103,7 +103,6 @@ facebook.com
 fam-8.net
 fam-ad.com
 fengkongcloud.com
-firebaseremoteconfig.googleapis.com
 fivecdm.com
 flurry.com
 focas.jp
@@ -219,7 +218,6 @@ ssacdn.com
 ssp.yahoo.com
 star.c10r.facebook.com
 startappelb.com
-#stream.ne.jp
 supersonicads.com
 taboola.com
 taboola.map.fastly.net
