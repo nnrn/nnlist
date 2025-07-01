@@ -1,4 +1,5 @@
 
+19706903.xyz
 2mdn.net
 4dex.io
 a-cast.jp
@@ -70,6 +71,7 @@ avantisvideo.com
 b90.yahoo.co.jp
 b92.yahoo.co.jp
 b97.yahoo.co.jp
+b99.yahoo.co.jp
 bdash-cloud.com
 bidmachine.io
 bidswitch.net
@@ -111,6 +113,7 @@ fengkongcloud.com
 firebaseremoteconfig.googleapis.com
 fivecdm.com
 flurry.com
+flux-cdn.com
 focas.jp
 fout.jp
 fw-ad.jp
@@ -215,6 +218,7 @@ scarabresearch.com
 scn.line.me
 scorecardresearch.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
+sentry.io
 servenobid.com
 sharedid.org
 sigmob.cn
@@ -259,6 +263,7 @@ vungle.com
 w55c.net
 webpush.jp
 www-googletagmanager.l.google.com
+x-lift.jp
 yads.c.yimg.jp
 yicha.jp
 yjtag.yahoo.co.jp
