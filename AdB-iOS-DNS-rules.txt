@@ -125,6 +125,7 @@ gmossp-sp.jp
 go-mpulse.net
 googleadservices.com
 googlesyndication.com
+googletagmanager.com
 googletagservices.com
 graph.facebook.com
 gsspat.jp
